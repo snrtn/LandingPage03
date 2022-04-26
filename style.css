@@ -638,6 +638,9 @@ a[data-lightbox]:hover img {
     color: rgba(0, 0, 0, .5);
     background: none;
 }
+.phtos {
+    width: 425px;
+}
 
 h1,
 h2,
